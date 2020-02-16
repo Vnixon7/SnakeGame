@@ -1,2 +1,2 @@
 # SnakeGame
-Classic snake created using Python's pygame module.
+Classic snake game created using Python's pygame module.
